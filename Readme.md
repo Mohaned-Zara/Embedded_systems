@@ -3,7 +3,6 @@
 
 
 ---
-
 ## Contents
 
 ### First Term ![image](https://progress-bar.dev/0/?title=InProgress)
