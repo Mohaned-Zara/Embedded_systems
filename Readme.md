@@ -14,7 +14,7 @@
 - [Unit 5: First Term Projects](Unit_5_First_Term_Projects)
 
 ---
-
+<!---
 ### Second Term
 
 - [Unit 6: MCU Fundamentals](Unit_6_MCU_Fundamentals)
@@ -38,3 +38,4 @@
 ## My Progress Profile:
 
 ---
+-->
