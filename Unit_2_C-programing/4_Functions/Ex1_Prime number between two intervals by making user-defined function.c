@@ -26,7 +26,7 @@ for (int i =n1; i <= n2; i++)
     {
         printf("%d isn't prime.\n",n1);
         printf("please Enter a positive number > 1 \n",n1);
-         break;;
+         break;
     }
     count = checkPrimeNumber(i);
     if (count == 0) 
