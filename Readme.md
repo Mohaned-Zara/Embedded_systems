@@ -1,6 +1,6 @@
 # Embedded Systems Online Diploma
 
-
+![alt text](Learn_In_Depth-1.png)
 
 ---
 ## Contents
