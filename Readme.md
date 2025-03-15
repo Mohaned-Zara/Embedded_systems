@@ -7,8 +7,8 @@
 
 ### First Term 
 
-- [Unit 1: Diploma Prerequisites](https://github.comMohaned-Zara/Embedded_System) ![](https://geps.dev/progress/100)
-- [Unit 2: C Programming](Unit_2_C_Programming) ![](https://geps.dev/progress/80)
+- [Unit 1: Diploma Prerequisites](https://github.comMohaned-Zara/Embedded_System)![](https://geps.dev/progress/100)
+- [Unit 2: C Programming](Unit_2_C_Programming)![](https://geps.dev/progress/100)
 - [Unit 3: Embedded C](Unit_3_Embedded_C) 
 - [Unit 4: System Architect](Unit_4_System_Architecture)
 - [Unit 5: First Term Projects](Unit_5_First_Term_Projects)
